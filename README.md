@@ -1,4 +1,5 @@
-<div align="center">
+Veo que la tabla sigue rota — le falta el </td> del primer bloque. Copia todo esto y pégalo en el README nuevo:
+md<div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=420&color=0:0B1026,25:4B0082,50:7B2DFF,75:00D4FF,100:00FFC8&text=SilkRoad404&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✦%20Edwin%20|%20Student%20|%20Developer%20in%20Progress%20✦&descAlignY=55&descSize=22"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=👋+Hola%2C+soy+Edwin+—+SilkRoad404;💻+Apasionado+por+la+tecnología;🚀+Convirtiendo+ideas+en+proyectos;⚡+Siempre+aprendiendo%2C+siempre+construyendo)](https://git.io/typing-svg)
@@ -40,11 +41,13 @@ const Edwin = {
 > 🎯 **Convirtiendo ideas en código, una línea a la vez.**  
 > Estudiante apasionado por la tecnología, siempre buscando el siguiente reto.
 
+</td>
 <td width="45%" valign="top">
 
 <br>
 
 <img width="100%" src="https://i.giphy.com/bJ4TVNYNUympPgcpem.gif" style="border-radius:12px"/>
+
 </td>
 </tr>
 </table>
@@ -66,7 +69,6 @@ const Edwin = {
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SilkRoad404)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-<br>
 
 </div>
 
@@ -123,4 +125,4 @@ const Edwin = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:0B1026,25:4B0082,50:7B2DFF,75:00D4FF,100:00FFC8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=foot
