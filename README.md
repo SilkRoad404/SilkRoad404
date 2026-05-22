@@ -69,7 +69,6 @@ const Edwin = {
 <br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode&theme=dark&perline=9"/>
-
 </div>
 
 ---
