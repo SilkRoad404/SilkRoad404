@@ -67,8 +67,8 @@ const Edwin = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SilkRoad404)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 <br>
-
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode&theme=dark&perline=9"/>
+
 </div>
 
 ---
