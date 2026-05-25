@@ -78,12 +78,7 @@ const Edwin = {
 
 ## 📊 GitHub Dashboard
 
-<br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SilkRoad404&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilkRoad404&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br><br>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SilkRoad404&theme=tokyonight&hide_border=true"/>
 
