@@ -1,4 +1,4 @@
-Veo que la tabla sigue rota — le falta el </td> del primer bloque. Copia todo esto y pégalo en el README nuevo:
+
 md<div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=420&color=0:0B1026,25:4B0082,50:7B2DFF,75:00D4FF,100:00FFC8&text=SilkRoad404&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✦%20Edwin%20|%20Student%20|%20Developer%20in%20Progress%20✦&descAlignY=55&descSize=22"/>
 
